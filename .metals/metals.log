@@ -1,0 +1,71 @@
+2026.02.04 21:46:29 INFO  Started: Metals version 1.6.5 in folders 'E:\2eme\javafx\Gestion_de_bibliothéque' for client Visual Studio Code 1.108.2.
+2026.02.04 21:46:29 INFO  Memory monitor started
+2026.02.04 21:46:31 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.04 21:46:31 INFO  no build target found for E:\2eme\javafx\Gestion_de_bibliothéque\src\Controller\pageAcc_controller.java. Using fallback presentation compiler.
+févr. 04, 2026 9:46:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+févr. 04, 2026 9:46:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.02.04 21:46:32 INFO  no build target found for E:\2eme\javafx\Gestion_de_bibliothéque\src\Controller\pageAcc_controller.java. Using fallback presentation compiler.
+2026.02.04 21:46:32 INFO  no build target found for E:\2eme\javafx\Gestion_de_bibliothéque\src\Controller\SignInController.java. Using fallback presentation compiler.
+2026.02.04 21:46:32 INFO  no build target found for E:\2eme\javafx\Gestion_de_bibliothéque\src\Controller\pageAcc_controller.java. Using fallback presentation compiler.
+2026.02.04 21:46:32 WARN  no build tool detected in workspace 'E:\2eme\javafx\Gestion_de_bibliothéque'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.02.04 21:46:32 INFO  no build target found for E:\2eme\javafx\Gestion_de_bibliothéque\src\Controller\SignInController.java. Using fallback presentation compiler.
+2026.02.04 21:46:32 INFO  no build target found for E:\2eme\javafx\Gestion_de_bibliothéque\src\Controller\SignInController.java. Using fallback presentation compiler.
+2026.02.04 21:46:32 WARN  Build server is not auto-connectable.
+2026.02.04 21:46:32 WARN  no build target for: E:\2eme\javafx\Gestion_de_bibliothéque\src\Controller\SignInController.java
+2026.02.04 21:46:32 WARN  no build target for: E:\2eme\javafx\Gestion_de_bibliothéque\src\Models\Admin.java
+2026.02.04 21:46:32 WARN  no build target for: E:\2eme\javafx\Gestion_de_bibliothéque\src\Controller\pageAcc_controller.java
+2026.02.04 21:46:34 INFO  no build target found for E:\2eme\javafx\Gestion_de_bibliothéque\src\Controller\SignInController.java. Using fallback presentation compiler.
+2026.02.04 21:46:35 INFO  no build target found for E:\2eme\javafx\Gestion_de_bibliothéque\src\Controller\SignInController.java. Using fallback presentation compiler.
+2026.02.04 21:46:35 INFO  no build target found for E:\2eme\javafx\Gestion_de_bibliothéque\src\Controller\SignInController.java. Using fallback presentation compiler.
+2026.02.04 21:46:35 INFO  time: code lens generation in 3.19s
+févr. 04, 2026 9:46:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+févr. 04, 2026 9:46:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+févr. 04, 2026 9:46:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+févr. 04, 2026 9:46:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+févr. 04, 2026 9:46:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+févr. 04, 2026 9:46:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2026.02.04 21:46:36 WARN  no build target for: E:\2eme\javafx\Gestion_de_bibliothéque\src\Controller\SignInController.java
+2026.02.04 21:46:35 INFO  no build target found for E:\2eme\javafx\Gestion_de_bibliothéque\src\Controller\SignInController.java. Using fallback presentation compiler.
+2026.02.04 21:46:35 INFO  no build target found for E:\2eme\javafx\Gestion_de_bibliothéque\src\Controller\SignInController.java. Using fallback presentation compiler.
+févr. 04, 2026 9:46:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22
+févr. 04, 2026 9:46:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+2026.02.04 21:46:35 INFO  no build target found for E:\2eme\javafx\Gestion_de_bibliothéque\src\Controller\SignInController.java. Using fallback presentation compiler.
+févr. 04, 2026 9:46:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23
+2026.02.04 21:46:35 INFO  no build target found for E:\2eme\javafx\Gestion_de_bibliothéque\src\Controller\SignInController.java. Using fallback presentation compiler.
+févr. 04, 2026 9:46:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27
+2026.02.04 21:46:37 INFO  no build target found for E:\2eme\javafx\Gestion_de_bibliothéque\src\Controller\SignInController.java. Using fallback presentation compiler.
+2026.02.04 21:46:37 INFO  no build target found for E:\2eme\javafx\Gestion_de_bibliothéque\src\Controller\SignInController.java. Using fallback presentation compiler.
+2026.02.04 21:46:37 INFO  time: code lens generation in 1.48s
+2026.02.04 21:46:37 INFO  no build target found for E:\2eme\javafx\Gestion_de_bibliothéque\src\Controller\SignInController.java. Using fallback presentation compiler.
+2026.02.04 21:46:37 INFO  no build target found for E:\2eme\javafx\Gestion_de_bibliothéque\src\Controller\SignInController.java. Using fallback presentation compiler.
+2026.02.04 21:46:37 INFO  Created report: Optional[file:///E:/2eme/javafx/Gestion_de_bibliothéque/src/Controller/SignInController.java]
+2026.02.04 21:46:37 INFO  empty definition using pc, found symbol in pc: javafx/scene/Scene# (full report at: "E:\2eme\javafx\Gestion_de_bibliothéque\.metals\.reports\metals-full\2026-02-04\r_empty-definition_21-46-37-466.md")
+févr. 04, 2026 9:46:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25
+févr. 04, 2026 9:46:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30
+2026.02.04 21:46:37 INFO  no build target found for E:\2eme\javafx\Gestion_de_bibliothéque\src\Controller\SignInController.java. Using fallback presentation compiler.
+2026.02.04 21:46:37 INFO  Created report: Optional[file:///E:/2eme/javafx/Gestion_de_bibliothéque/src/Controller/SignInController.java]
+2026.02.04 21:46:37 INFO  empty definition using pc, found symbol in pc: javafx/fxml/Initializable# (full report at: "E:\2eme\javafx\Gestion_de_bibliothéque\.metals\.reports\metals-full\2026-02-04\r_empty-definition_21-46-37-573.md")
+févr. 04, 2026 9:46:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 33
+févr. 04, 2026 9:46:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 35
+2026.02.04 21:46:37 INFO  no build target found for E:\2eme\javafx\Gestion_de_bibliothéque\src\Controller\SignInController.java. Using fallback presentation compiler.
+2026.02.04 21:46:37 INFO  no build target found for E:\2eme\javafx\Gestion_de_bibliothéque\src\Controller\SignInController.java. Using fallback presentation compiler.
+2026.02.04 21:46:39 INFO  Shutting down server
+2026.02.04 21:46:39 INFO  Memory monitor stopped
+2026.02.04 21:46:39 INFO  shutting down Metals
+2026.02.04 21:46:39 INFO  Exiting server
