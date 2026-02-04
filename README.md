@@ -26,6 +26,3 @@ Cette application permet de gérer une bibliothèque de manière complète :
 - `Models` : classes pour les entités (Livre, Client, Emprunt, Facture)
 - `Views` : fichiers FXML pour l'interface
 - `application` : connexion à la base de données MySQL
-
-👩‍💻 **Auteur**
-Amal Bouaouina
